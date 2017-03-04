@@ -1,0 +1,24 @@
+# This file is a basic readme for LowestCommonMulitple implementation.
+
+We are trying to achieve LCM for numbers by using prime factorization technique.
+
+
+Input Format
+  n - No of numbers
+  a1, a2 ..... an - Numbers
+
+  1<=n<=10 power 9
+  1<=a1*a2*.....an<=10 power 15
+ 
+Output Format
+  m - LCM of a1,a2.....an
+  LCM of the product m would be displayed
+
+Example
+
+Sample Input 0
+10
+829 455 345 229 123 121 111 14 13 12
+
+Sample Output 0
+LCM of the above numbers is 4376041608398460
