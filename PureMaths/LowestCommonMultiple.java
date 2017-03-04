@@ -1,4 +1,4 @@
-package com.hackerrank.day4;
+package com.nirley.practice.puremaths;
 
 /**
  * @author Nirley Gupta
